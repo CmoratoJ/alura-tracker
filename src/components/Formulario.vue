@@ -11,8 +11,8 @@
     </div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue';
-import Temporizador from './Temporizador.vue';
+import { defineComponent } from 'vue'
+import Temporizador from './Temporizador.vue'
 
 export default defineComponent({
     name: 'Formulario',

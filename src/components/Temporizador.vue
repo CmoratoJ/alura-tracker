@@ -6,9 +6,9 @@
     </div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue';
-import Cronometro from './Cronometro.vue';
-import Botao from './Botao.vue';
+import { defineComponent } from 'vue'
+import Cronometro from './Cronometro.vue'
+import Botao from './Botao.vue'
 
 export default defineComponent({
     name: 'Temporizador',
